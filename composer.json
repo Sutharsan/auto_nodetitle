@@ -1,0 +1,8 @@
+{
+  "name": "drupal/auto_title",
+  "description": "This is a small and efficent module that allows hiding of the content title field in the form.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}
